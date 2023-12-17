@@ -11,5 +11,9 @@
 3. [easy_MachineLearn](./easy_MachineLearning/)
    - irisデータを使用して簡単な機械学習を実装
    - skill : KNN, Decision Tree, SVM, Logistic Regression, Kernel SVM, Random Forest
-4. b
-   - aa
+4. [Geminiの使い方](./Gemini_api/main.ipynb)
+   - リクエスト方法などを記載
+   - skill : Gemini
+5. [GeminiでOCRに挑戦](./Gemini_api/ocr.ipynb)
+   - OCRに挑戦してみた
+   - skill : Gemini
